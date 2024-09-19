@@ -1,6 +1,8 @@
 # Creating a README.md file content for the user's project
-
-readme_content = """
+![alt text](image.png)
+This is a Drak Theme
+![alt text](image-1.png)
+This is a light Theme
 # MultiLang-ThemeSwitcher-GUI
 
 **MultiLang-ThemeSwitcher-GUI** is a Python-based graphical user interface (GUI) application built using Tkinter and Matplotlib. The application demonstrates the integration of two major functionalities:
